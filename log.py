@@ -1,5 +1,5 @@
 # hamburger logging program
-# by KC3LVL (aka yung-ber)
+# by yung-ber
 import os
 from time import asctime
 from urllib.request import urlopen
