@@ -1,0 +1,341 @@
+ogged in.</b> 
+ <a href=https://hamcall.net/call?wantLoginForm=1>[<b>Log In</b>]</a>
+<a href='javascript:onClick=alert("If you have a HamCall.net password (even an expired one), log in for extra website features!")'><img width=20 height=20 border=0 src="https://hamcall.net/images/questionmark.gif"></a><BR>
+<a href=https://hamcall.net/reg#forgotpassword>[Forgot your password?]</a><BR>
+<a href=http://hamcall.net/hamonline.html>[Buy HamCall.net Gold Password]</a><BR>
+<a href=http://hamcall.net/haminfo.html#order>[Buy HamCall DVD with password]</a><BR>
+<a href=https://hamcall.net/reg#reg>[Register for FREE Basic Membership]</a><BR>
+<br><a href=http://hamcall.net/search>[Advanced Field Search]</a>  <a href=http://hamcall.net/dxspots>[DXSpots]<BR>
+</td>
+</td></tr></table>
+<table width=100% cellspacing=0 border=0 cellpadding=2>
+<tr><td bgcolor=#CCFFFF>
+<FORM NAME=callsignentry METHOD=GET ACTION=/call>
+<B><font size=+1>Enter callsign</font>:</b> <INPUT NAME=callsign size=10 style="font-size:14pt;font-weight:bold;">
+<script language="javascript">
+<!--
+document.callsignentry.callsign.focus();
+-->
+</script>
+<INPUT TYPE=submit VALUE="Look up callsign">
+<BR>
+  <small>1921, 1940, 1954, 1957, 1960, 1965 <font color=red>(New!)</font>, 1969, 1977, 1983, and 1995 to present archive data is available.</small>
+</form></td></tr></table>
+<table width=100% cellspacing=0 border=0 bordercolorlight=#000000 bordercolordark=#000000 cellpadding=2>
+<tr><td width=50% align=center bgcolor=yellow>
+<font size=-1>
+<B>Mar 09 2019,  14:28 UTC</B>
+</font><BR>
+<a href=http://hamcall.net/haminfo.html><img width=77 height=75 border=0 align=left src=https://hamcall.net/images/buckdisk.gif alt="HamCall DVD"></a> <font size=+1><b>HamCall&#0153 Query Results: KC3LVJ</b></font>
+&nbsp; <a title="Next Callsign" href=https://hamcall.net/call/KC3LVK>-></a><BR>
+<font size=2 face="Arial, Helvetica, sans-serif"><B>Last accessed:</b> --&nbsp <b>Lookup count:</b> 1</B></font><BR>
+<BR>
+<a href=/updater?translate=1&wanteditform=1&callsign=KC3LVJ><img src=https://hamcall.net/images/edit24.gif width=24 height=24 alt="Edit"> Update KC3LVJ</a> &nbsp; <a href=https://www.wunderground.com/cgi-bin/findweather/getForecast?query=17202>Local Weather</a> &nbsp; <a href=https://hamcall.net/call?addfriend=KC3LVJ rel="nofollow">Add to Friends List</a> &nbsp; 
+<td width=50% align=center BGCOLOR=#FFFF99> <B>CQ Zone:</B> 3, 4, 5
+ &nbsp;  <B>ITU Zone:</B> 6, 7, 8 &nbsp;
+<B>Continent:</B> North America<BR>
+<b>Country of License:</b> USA
+<a href='javascript:onClick=alert("All the information in this box is based on the callsign prefix, not necessarily the physical location of the callsign holder.")'><img width=20 height=20 border=0 src="https://hamcall.net/images/questionmark.gif"></a><BR>
+<a href=/flagmap/US.htm><img border=0 src=https://hamcall.net/flagmap/flags/US-T.GIF alt=Flag align=bottom> Country Map </a><BR>
+</td></tr>
+</table>
+<table width=100% cellspacing=0 border=0 cellpadding=5>
+<tr><TD nowrap valign=top align=left width=20% bgcolor=#99CCFF>
+<!--Start-->
+
+<!-- <a href="http://hamcall.net"><B><font color=red size="+2">HamCall.net</font></b></a><BR> -->
+
+<!--GOOGLE TRANSLATE
+<font size=-1><b>Google Translate:</b></font><BR>
+<form style="display: inline; margin: 0;" action="https://www.google.com/translate" >
+<script language="JavaScript">
+!-- 
+document.write ("<input name=u value="+location.href+" type=hidden>") 
+// -- 
+</script>
+<input name="hl" value="en" type="hidden">
+<input name="ie" value="UTF8" type="hidden">
+<input name="langpair" value="" type="hidden">
+<input name="langpair" value="en|es" title="Spanish" src= "https://hamcall.net/images/es20.gif" onclick="this.form.langpair.value=this.value" height="13" type="image" width="20">
+<input name="langpair" value="en|fr" title="French" src= "https://hamcall.net/images/fr20.gif" onclick="this.form.langpair.value=this.value" height="13" type="image" width="20">
+<input name="langpair" value="en|de" title="German" src= "https://hamcall.net/images/de20.gif" onclick="this.form.langpair.value=this.value" height="13" type="image" width="20">
+<input name="langpair" value="en|it" title="Italian" src= "https://hamcall.net/images/it20.gif" onclick="this.form.langpair.value=this.value" height="13" type="image" width="20">
+<input name="langpair" value="en|ja" title="Japanese" src= "https://hamcall.net/images/ja20.gif" onclick="this.form.langpair.value=this.value" height="13" type="image" width="20">
+<input name="langpair" value="en|pt" title="Portuguese" src= "https://hamcall.net/images/pt20.gif" onclick="this.form.langpair.value=this.value" height="13" type="image" width="20">
+<input name="langpair" value="en|zh-CN" title="Chinese Simplified" src= "https://hamcall.net/images/cn20.gif" onclick="this.form.langpair.value=this.value" height="13" type="image" width="20">
+</form>
+
+<HR color=black noshade>
+-->
+
+<strong>Products</strong><BR>
+<a href="https://buckmasterinternational.com/cart"><img src="https://hamcall.net/images/cart20.gif" border=0 alt="-" width=20 height=20>Shopping Cart</a><BR>
+<a href="https://hamcall.net/auctions">Auctions</A><BR>
+<a href="https://hamcall.net/7bandocf.html">Buckmaster Antennas</A><BR>
+  <font size=-1>
+  &nbsp &nbsp &nbsp<a href="https://hamcall.net/7bandocf.html#7band">7-Band OCF</a><BR>
+  &nbsp &nbsp &nbsp<a href="https://hamcall.net/7bandocf.html#stealth">7-Band STEALTH</a><BR>
+  &nbsp &nbsp &nbsp<a href="https://hamcall.net/7bandocf.html#qrp">7-Band QRP</a><BR>
+  &nbsp &nbsp &nbsp<a href="https://hamcall.net/7bandocf.html#4band">4-Band OCF</a><BR>
+  &nbsp &nbsp &nbsp<a href="https://hamcall.net/7bandocf.html#8band">8-Band OCF</a><BR>
+  &nbsp &nbsp &nbsp<a href="https://hamcall.net/7bandocf.html#about">Features</a><BR>
+  &nbsp &nbsp &nbsp<a href="https://hamcall.net/7bandocf.html#installation">Installation</a><BR>
+  &nbsp &nbsp &nbsp<a href="https://hamcall.net/7bandocf.html#ordering">Order an Antenna/Coax</a><BR>
+  &nbsp &nbsp &nbsp<a href="https://hamcall.net/7bandocf.html#comments">Reviews</a><BR>
+  &nbsp &nbsp &nbsp<a href="https://hamcall.net/7bandocffaq.html">FAQ</a><BR>
+  </font>
+<a href="https://hamcall.net/coax.html">Coax Cables</A>  <img src=https://hamcall.net/images/new.gif align=middle width=32 height=32> <img src=https://hamcall.net/images/sale.gif align=top width=50 height=20><BR>
+<a href="https://hamcall.net/polyrope.html">Antenna Support Rope</A><BR>
+<a href="https://hamcall.net/pulleys.html">Stainless Pulleys</A><BR>
+<a href="https://hamcall.net/linegrip.htm">Line-Grip</A><BR>
+<a href="https://hamcall.net/chokes.html">RF Chokes</A> <img src=https://hamcall.net/images/new.gif align=middle width=32 height=32><BR> 
+<a href="https://hamcall.net/haminfo.html">HamCall Callsign Database</A><BR>
+  <font size=-1>
+  &nbsp &nbsp &nbsp<a href="https://hamcall.net/hamregistered.html">Owner Benefits</a><BR>
+  &nbsp &nbsp &nbsp<a href="https://hamcall.net/hamfeatures.html">Software Features</a><BR>
+  &nbsp &nbsp &nbsp<a href="https://hamcall.net/hamcallfaq.html">HamCall Support/FAQ</a><BR>
+  &nbsp &nbsp &nbsp<a href="https://www.hamcall.net/thirdPartyHamCall.html">Third-party support</a><BR>
+  &nbsp &nbsp &nbsp<a href="https://www.hamcall.net/hamcallsurvey.html">User Opinions</a><BR>
+  &nbsp &nbsp &nbsp<a href="https://hamcall.net/hamsubscriptions.html">Subscriptions</a><BR>
+  &nbsp &nbsp &nbsp<a href="https://hamcall.net/haminfo.html#order">Order HamCall Callsign Database</a><BR>
+  </font>
+<a href="https://hamcall.net/hamonline.html">HamCall.net Gold Membership</A><BR>
+  <font size=-1>
+  <!-- &nbsp &nbsp &nbsp<a href="https://hamcall.net/memberbenefits.html">Gold Member Benefits</A><BR> -->
+  &nbsp &nbsp &nbsp<a href="https://hamcall.net/hamonline.html#order">Order HamCall Gold Membership</A><BR>
+  </font>
+<a href="https://hamcall.net/cqcgi">CQ Magazine Archives</A><BR>
+<a href="https://hamcall.net/greatcircle.html">Great Circle Maps</A> <img src=https://hamcall.net/images/sale.gif align=top width=50 height=20><BR>
+<a href="https://hamcall.net/maps.html">World Prefix, WAS Maps</A> <img src=https://hamcall.net/images/new.gif align=middle width=32 height=32><BR>
+<a href="https://hamcall.net/mousepad.html">HamCall Mousepads</A>   <img src=https://hamcall.net/images/new.gif align=middle width=32 height=32><BR>
+<a href="https://hamcall.net/badges">Name Badges</A><BR>
+<a href="https://hamcall.net/certificates.html">License Certificates</A><BR>
+<a href="https://hamcall.net/clubpage.html">Club Discounts</A><BR>
+<a href="https://hamcall.net/cryp.html">Cryptography Book</A><BR>
+<a href="https://hamcall.net/dealers.html">Dealer Discounts</A><BR>
+<a href="https://hamcall.net/stringliner.html">Nylon Line Reel</A><BR>
+<a href="https://hamcall.net/terminalblocks.html">Terminal Blocks</A> <img src=https://hamcall.net/images/new.gif align=middle width=32 height=32><BR>
+<a href="https://hamcall.net/connectors.html">Powerpole and Molex</A><BR>
+<a href="https://hamcall.net/pl259.html">PL259 Connectors</A><BR>
+<a href="https://buckmasterinternational.com/labels.html" target="_blank">Return Address Labels</A><BR>
+<!-- <a href="https://hamcall.net/winders.html">Wire Winders</A><BR> -->
+<HR color=black noshade>
+<strong>Services</strong><BR>
+<a href="https://hamcall.net/73">73 Archive Search</A><BR>
+<a href="https://hamcall.net/antennacalc.html">Antenna Calculator</a><BR>
+<a href="https://hamcall.net/dxspots">DXSpots</a><BR>
+<a href="https://hamcall.net/calendar.html">Hamfest Calendar</a><BR>
+<a href="https://hamcall.net/mailinglists.html">Mailing Lists</A><BR>
+<a href="https://hamcall.net/notablelinks.html">Notable Links</a><BR>
+<a href="https://hamcall.net/notify?newcallnotifyform=1">New Callsign Notification</A><BR>
+<a href="https://hamcall.net/labels.html" target="_blank">Return Address Labels</A><BR>
+<a href="https://buckmasterinternational.com/vec">VEC Renewals/Mods</A><BR>
+<HR color=black noshade>
+<strong>Callsign Database</strong><BR>
+<a href="https://hamcall.net/lookupcode.html">Add HamCall To Your Site</A><BR>
+<a href="https://hamcall.net/updater">Add/Update Callsign</A><BR>
+<a href="https://hamcall.net/images/a/ad-howto.html">Advertising Banners</A><BR>
+<a href="https://hamcall.net/hamstations.html">Best Station Photos</A><BR>
+<a href="https://hamcall.net/cgi-bin/browsephotos.exe">Browse QSLs</A><BR>
+<a href="https://hamcall.net/searchblank.html">Browser Search Blank</A><BR>
+<a href="https://hamcall.net/call">Callsign Server</A><BR>
+<a href="https://hamcall.net/search">HamCall Advanced Search</A><BR>
+<a href="https://hamcall.net/hamcallcounts.html">HamCall Database Stats</A><BR>
+<a href="https://hamcall.net/hamcallfaq.html#HCDatabase">HamCall FAQ</a><BR>
+<a href="https://hamcall.net/mailinglists.html">Mailing Lists</A><BR>
+<a href="https://hamcall.net/topwanted.html">Most Wanted Callsigns</A><BR>
+<a href="https://hamcall.net/notify?newcallnotifyform=1">New Callsign Notification</A><BR>
+<a href="https://hamcall.net/topcalls.html">Top Callsigns</A><BR>
+<!-- <img src=https://hamcall.net/images/smbul.gif width=14 height=14><a href="http://hamcall.net/dailyfcc.html">Daily FCC Reports</A><BR> -->
+<HR color=black noshade>
+<!--
+<strong>Ham Radio News</strong><BR>
+<a href="http://www.arrl.org/arrl.rss">Ham Radio News</A><BR>
+&nbsp &nbsp (IE only)<BR>
+<HR color=black noshade>
+-->
+<strong>About/Contact</strong><BR>
+<a href="https://www.facebook.com/HamCall"><img align=middle alt="Facebook HamCall fan link" border=0 src="https://hamcall.net/images/facebook30.png" width=30 height=30>Facebook</a><BR>
+<a href="https://twitter.com/#!/HamCallDB"><img src="https://hamcall.net/images/twitter30.jpg" align=middle border=0 width=30 height=30>Twitter</a><BR>
+<a href="https://hamcall.net/images/a/ad-howto.html">Advertising Banners</A><BR>
+<a href="https://hamcall.net/aboutHamCall.html">About HamCall</A><BR>
+<a href="https://hamcall.net/aboutHamCall.html#contact">Contact Us</A><BR>
+<HR color=black noshade>
+<strong>Search site</strong><BR>
+<small>(Not a callsign search)</small>
+
+<form method="get" action="https://www.google.com/search">
+
+<table border="0" cellpadding="0">
+<tr><td>
+  <input type="text"   name="q" size="15" maxlength="255" value="" /><BR>
+  <input type="submit" value="Google Search" />
+</td></tr>
+<tr><td style="font-size:75%">
+<input type="checkbox"  name="sitesearch" value="hamcall.net" checked /> Only search HamCall.net<br />
+</td></tr></table>
+
+</form>
+
+</td>
+<td valign=top>
+ <table border=0 width=100%><tr><td valign=top>
+<tr><td colspan=2 valign=top>
+<B>Jonathan D. Gonyou, KC3LVJ<br>
+</b><i>Street address available to members</i><b><BR>
+Chambersburg, PA 17202<br>
+USA<br>
+</font></B><BR>
+<font color=blue><b>Welcome!  A <a href=https://hamcall.net/reg>FREE</a> or <a href=http://hamcall.net/hamonline.html>paid HamCall.net membership</a> is required to view all callsign details.  Every detail listed below is available for this callsign.  The HamCall database has been in production since 1989 and is still the largest callsign database in the world.  Thanks for your support!</font></b></font><P>
+<b>License Class:</b> Technician
+<br>
+<b>License Issue Date:</b> <i>available to members</i><BR><b>License Expiration Date:</b> <i>available to members</i><BR><b>FCC Last Transaction:</b> <i>available to members</i><br>
+<b>FCC Licensee ID:</b> <i>available to members</i><br>
+<b>FCC FRN Number:</b> <i>available to members</i><br>
+</td></tr>
+<tr><td  colspan=2>
+</td></tr>
+<tr><td colspan=2>
+<b>Latitude:</b> <i>available to members</i><br>
+<b>Longitude:</b> <i>available to members</i><br>
+<b>Heading and Distance:</b> <i>available to <a href=http://hamcall.net/hamonline.html>Gold members</a></i><BR>
+<b>Grid:</b> <i>available to members</i><br>
+<b>County:</b> <i>available to members</i><br>
+<b>Hours +/- GMT:</b> <i>available to members</i><br>
+<BR>
+</td></tr>
+<tr><td bgcolor=lightcyan colspan=2>
+<a name=interests></td></tr>
+<tr><td><center>
+<a href=http://hamcall.net/7bandocf.html><img src=https://hamcall.net/images/7band300lineart.gif width=357 height=47 border=0><br>Buckmaster OCF Antennas!</a><BR>
+<BR>
+<a href=http://hamcall.net/badges><img src=https://hamcall.net/images/namebadgeantenna321.png width=321 height=202 alt="Name Badge"></a><BR>
+See our <a href=http://hamcall.net/badges>Custom Name Badges</a>, design and order online!</center><BR></td></tr>
+<tr><td> &nbsp </td></tr>
+<tr><td>
+<hr>
+<BR>  Can your logging program or other ham software import callsign name, address, and lat/long data directly from the HamCall database?  <A HREF="http://hamcall.net/thirdPartyHamCall.html">See the software compatibility list.</A><P>
+  Custom Name Badges - Design online with our <a href="http://hamcall.net/badges">interactive Name Badge designer</a><P>
+  Need address labels or other labels?  Check out our quick and easy label designer at <a href=http://addresslabelsfast.com>http://addresslabelsfast.com</a>.
+<b>What do our users say about HamCall?</b> Take a look at our <a href="http://hamcall.net/HamCallSurvey.html">HamCall User Survey!</a></b><P>
+<a href="http://hamcall.net/haminfo.html#order"><IMG src=https://hamcall.net/images/cart.gif width=50 height=50 ALIGN=left border=0>  Order a HamCall DVD.</A>  Free tech support by e-mail or phone, talk directly to a real person!<BR clear=all>
+<a href="http://hamcall.net/images/hamcallcustomermap20072.png"><img border=0 align=left src="https://hamcall.net/images/hamcallcustomermap20072tn.png" width=159 height=79></a>
+International visitors:  HamCall shipped Airmail to any country is $65.  HamCall is used by hams world-wide in dozens of countries on 6 continents. Click the small map for a larger view of our customer locations.<br clear=all><BR>
+</td></tr>
+<tr><td>
+<span style="border-color:gray;border-style:solid;border-width:thin;padding:10px;vertical-align:top;display:inline-block;">
+<strong>Latest <a href=https://hamcall.net/dxspots>DXSpots</a></strong><BR>
+<font size=3><pre>
+<B><U>DX Callsign</U>     <U>Freq.</U> <U>Comment</U>                        <U>UTC</U>  <U>Spotter</U></B>
+<a href=https://hamcall.net/call/YC2CBD target=callSignInfoWindow><font color=green>YC2CBD</font></a> <font color=#CCCC00><B></b></font>       14076.4 JN78 OI53 FT8                  1426 <a href=https://hamcall.net/call/OE3FVU target=callSignInfoWindow><font color=green>OE3FVU</font></a>   
+<a href=https://hamcall.net/call/DK7JQ target=callSignInfoWindow><font color=green>DK7JQ</font><font color=red>/</font><font color=red>P</font></a> <font color=#CCCC00><B></b></font>       7171.0 WCA DL-00347 00345             1426 <a href=https://hamcall.net/call/DL2IAJ target=callSignInfoWindow><font color=green>DL2IAJ</font></a>   
+<a href=https://hamcall.net/call/IQ5QO/P target=callSignInfoWindow><font color=green>IQ5QO/P</font></a> <font color=#CCCC00><B></b></font>      18144.0 IFF-1593                       1426 <a href=https://hamcall.net/call/IZ0ARL target=callSignInfoWindow><font color=green>IZ0ARL</font></a>   
+<a href=https://hamcall.net/call/N3FZ target=callSignInfoWindow><font color=green>N3FZ</font></a> <font color=#CCCC00><B></b></font>          7048.0 SKCC WES                       1426 <a href=https://hamcall.net/call/N3BXZ target=callSignInfoWindow><font color=green>N3BXZ</font></a>    
+<a href=https://hamcall.net/call/HRD target=callSignInfoWindow><font color=red>HRD</font></a> <font color=#CCCC00><B></b></font>          14268.0 f a g g o t i coming for you   1426 <a href=https://hamcall.net/call/HRD target=callSignInfoWindow><font color=red>HRD</font></a>      
+<a href=https://hamcall.net/call/NY2PO target=callSignInfoWindow><font color=green>NY2PO</font></a> <font color=#CCCC00><B>*</b></font>       14211.0 73 PATRICK                     1426 <a href=https://hamcall.net/call/IU8LMB target=callSignInfoWindow><font color=green>IU8LMB</font></a>   
+<a href=https://hamcall.net/call/OZ7DG/P target=callSignInfoWindow><font color=red>OZ7DG/P</font></a> <font color=#CCCC00><B></b></font>     142475.0 OZFF-0178                      1426 <a href=https://hamcall.net/call/OZ89DG target=callSignInfoWindow><font color=red>OZ89DG</font></a>   
+<a href=https://hamcall.net/call/KB1AEV target=callSignInfoWindow><font color=green>KB1AEV</font></a> <font color=#CCCC00><B></b></font>      144205.0 FN31 FN31                      1426 <a href=https://hamcall.net/call/WZ1V target=callSignInfoWindow><font color=green>WZ1V</font></a>     
+<a href=https://hamcall.net/call/GJ7LJJ target=callSignInfoWindow><font color=green>GJ7LJJ</font><font color=red>/</font><font color=red>P</font></a> <font color=#CCCC00><B></b></font>      7175.0 EU-013, WV65                   1425 <a href=https://hamcall.net/call/GJ7LJJ target=callSignInfoWindow><font color=green>GJ7LJJ</font></a>   
+<a href=https://hamcall.net/call/RN5A target=callSignInfoWindow><font color=green>RN5A</font></a> <font color=#CCCC00><B></b></font>         14163.0                                1425 <a href=https://hamcall.net/call/VA3IPG target=callSignInfoWindow><font color=green>VA3IPG</font></a>   
+<a href=https://hamcall.net/call/UR8IE target=callSignInfoWindow><font color=green>UR8IE</font></a> <font color=#CCCC00><B></b></font>         7101.0                                1425 <a href=https://hamcall.net/call/R9XM target=callSignInfoWindow><font color=green>R9XM</font></a>     
+<a href=https://hamcall.net/call/RU4SO target=callSignInfoWindow><font color=green>RU4SO</font></a> <font color=#CCCC00><B></b></font>        14225.5 Nice signal in WY! 73!         1425 <a href=https://hamcall.net/call/K7NCK target=callSignInfoWindow><font color=green>K7NCK</font></a>    
+<a href=https://hamcall.net/call/RU1QD target=callSignInfoWindow><font color=green>RU1QD</font></a> <font color=#CCCC00><B></b></font>        10116.0 tnx QSO 73!                    1425 <a href=https://hamcall.net/call/R6NW target=callSignInfoWindow><font color=red>R6NW</font></a>     
+<a href=https://hamcall.net/call/V31GX target=callSignInfoWindow><font color=green>V31GX</font></a> <font color=#CCCC00><B></b></font>        21015.9 CW                             1425 <a href=https://hamcall.net/call/VE4EA target=callSignInfoWindow><font color=green>VE4EA</font></a>    
+<a href=https://hamcall.net/call/RN3RN target=callSignInfoWindow><font color=red>RN3RN</font></a> <font color=#CCCC00><B></b></font>         7104.0                                1425 <a href=https://hamcall.net/call/R9XM target=callSignInfoWindow><font color=green>R9XM</font></a>     
+<a href=https://hamcall.net/call/UD4F target=callSignInfoWindow><font color=green>UD4F</font></a> <font color=#CCCC00><B></b></font>         14074.0                                1425 <a href=https://hamcall.net/call/NA5Q target=callSignInfoWindow><font color=green>NA5Q</font></a>     
+<a href=https://hamcall.net/call/UD4F target=callSignInfoWindow><font color=green>UD4F</font></a> <font color=#CCCC00><B></b></font>         14076.7                                1425 <a href=https://hamcall.net/call/NA5Q target=callSignInfoWindow><font color=green>NA5Q</font></a>     
+<a href=https://hamcall.net/call/T88XH target=callSignInfoWindow><font color=green>T88XH</font></a> <font color=#CCCC00><B></b></font>        10138.0 ft8                            1425 <a href=https://hamcall.net/call/KZ7N target=callSignInfoWindow><font color=green>KZ7N</font></a>     
+<a href=https://hamcall.net/call/ZS9SARL target=callSignInfoWindow><font color=red>ZS9SARL</font></a> <font color=#CCCC00><B></b></font>      18123.0 tnx                            1424 <a href=https://hamcall.net/call/WE2N target=callSignInfoWindow><font color=green>WE2N</font></a>     
+<a href=https://hamcall.net/call/DL2ARD target=callSignInfoWindow><font color=green>DL2ARD</font></a> <font color=#CCCC00><B>**</b></font>     14295.0                                1424 <a href=https://hamcall.net/call/K3GC target=callSignInfoWindow><font color=green>K3GC</font></a>     
+<a href=https://hamcall.net/call/N8IL target=callSignInfoWindow><font color=green>N8IL</font></a> <font color=#CCCC00><B></b></font>         14074.4 FT8                            1424 <a href=https://hamcall.net/call/TA2JU target=callSignInfoWindow><font color=green>TA2JU</font></a>    
+<a href=https://hamcall.net/call/F5LMJ target=callSignInfoWindow><font color=green>F5LMJ</font></a> <font color=#CCCC00><B>*L</b></font>      14072.0 73Alan                         1424 <a href=https://hamcall.net/call/LZ1AEY target=callSignInfoWindow><font color=green>LZ1AEY</font></a>   
+<a href=https://hamcall.net/call/LU5FC target=callSignInfoWindow><font color=green>LU5FC</font></a> <font color=#CCCC00><B>**</b></font>      21254.0 SALUDOS DE NUEVO JESUS 73?S    1424 <a href=https://hamcall.net/call/EA5IPM target=callSignInfoWindow><font color=red>EA5IPM</font></a>   
+<a href=https://hamcall.net/call/A92GW target=callSignInfoWindow><font color=red>A92GW</font></a> <font color=#CCCC00><B></b></font>        14179.0 TNX 4 nice QSO Tom             1424 <a href=https://hamcall.net/call/OK1PBU target=callSignInfoWindow><font color=red>OK1PBU</font></a>   
+<a href=https://hamcall.net/call/HRD target=callSignInfoWindow><font color=red>HRD</font></a> <font color=#CCCC00><B></b></font>          14260.0 i coming for you faggot        1424 <a href=https://hamcall.net/call/HRD target=callSignInfoWindow><font color=red>HRD</font></a>      
+</pre>
+</span>
+<span style="border-color:gray;border-style:solid;border-width:thin;padding:10px;vertical-align:top;display:inline-block;">
+<strong>Band Activity</strong> (number of spots per band)<BR>
+<pre>
+<B> 630M</b>
+<B> 160M</b> <img src=https://hamcall.net/images/barg1.png height=5 width=6> <small>(6)</small>
+<B>  80M</b> <img src=https://hamcall.net/images/barg1.png height=5 width=16> <small>(16)</small>
+<B>  60M</b> <img src=https://hamcall.net/images/barg1.png height=5 width=1> <small>(1)</small>
+<B>  40M</b> <img src=https://hamcall.net/images/barg1.png height=5 width=50> <small>(50)</small>
+<B>  30M</b> <img src=https://hamcall.net/images/barg1.png height=5 width=7> <small>(7)</small>
+<B>  20M</b> <img src=https://hamcall.net/images/barg1.png height=5 width=41> <small>(41)</small>
+<B>  17M</b> <img src=https://hamcall.net/images/barg1.png height=5 width=10> <small>(10)</small>
+<B>  15M</b> <img src=https://hamcall.net/images/barg1.png height=5 width=5> <small>(5)</small>
+<B>  12M</b>
+<B>  10M</b> <img src=https://hamcall.net/images/barg1.png height=5 width=1> <small>(1)</small>
+<B>   6M</b> <img src=https://hamcall.net/images/barg1.png height=5 width=2> <small>(2)</small>
+<B>   4M</b>
+<B>   2M</b> <img src=https://hamcall.net/images/barg1.png height=5 width=2> <small>(2)</small>
+<B>1.25M</b>
+<B> 70cm</b>
+<B> 33cm</b>
+<B> 23cm</b>
+<B>  3cm</b>
+</pre>
+</span>
+<span style="border-color:gray;border-style:solid;border-width:thin;padding:10px;vertical-align:top;display:inline-block;">
+<strong>Ham News</strong><BR>
+<div style="background-color:#F8F8FF;">Mar 08: <a href=http://www.arrl.org/news/view/the-latest-episode-of-arrl-audio-news-is-available-10>The Latest Episode of ARRL Audio News is Available</a></div>
+<div style="background-color:#DDDDFF;">Mar 08: <a href=http://www.arrl.org/news/view/the-april-edition-of-digital-qst-is-now-available-3>The April Edition of Digital QST is Now Available!</a></div>
+<div style="background-color:#F8F8FF;">Mar 08: <a href=http://www.arrl.org/news/view/new-book-energy-choices-for-the-radio-amateur-now-shipping>New Book, Energy Choices for the Radio Amateur, Now Shipping</a></div>
+<div style="background-color:#DDDDFF;">Mar 08: <a href=http://www.arrl.org/news/view/amateur-radio-volunteers-activate-following-california-flooding>Amateur Radio Volunteers Activate Following California Flooding</a></div>
+<div style="background-color:#F8F8FF;">Mar 08: <a href=http://www.arrl.org/news/view/the-dave-kalter-youth-dx-adventure-returning-to-curacao>The Dave Kalter Youth DX Adventure Returning to Curacao</a></div>
+<div style="background-color:#DDDDFF;">Mar 08: <a href=http://www.arrl.org/news/view/the-k7ra-solar-update-567>The K7RA Solar Update</a></div>
+<div style="background-color:#F8F8FF;">Mar 07: <a href=http://www.arrl.org/news/view/important-notice-to-arrl-members-using-the-apple-digital-qst-app>Important Notice to ARRL Members Using the Apple Digital QST App </a></div>
+<div style="background-color:#DDDDFF;">Mar 07: <a href=http://www.arrl.org/news/view/highest-ever-summits-on-the-air-activation-reported>Highest-Ever Summits on the Air Activation Reported </a></div>
+<div style="background-color:#F8F8FF;">Mar 07: <a href=http://www.arrl.org/news/view/fcc-takes-a-new-tack-in-combatting-unlicensed-radio-broadcasting>FCC Takes a New Tack in Combatting Unlicensed Radio Broadcasting </a></div>
+<div style="background-color:#DDDDFF;">Mar 07: <a href=http://www.arrl.org/news/view/german-radio-amateur-successfully-sends-2-5-mw-opera-signal-via-es-hail-2>German Radio Amateur Successfully Sends 2.5 mW OPERA Signal via Es'hail-2 </a></div>
+<div style="background-color:#F8F8FF;">Mar 07: <a href=http://www.arrl.org/news/view/the-doctor-will-see-you-now-104>The Doctor Will See You Now!</a></div>
+<div style="background-color:#DDDDFF;">Mar 06: <a href=http://www.arrl.org/news/view/ariss-to-auction-hf-50-mhz-transceiver-arrl-handbook-boxed-set>ARISS to Auction HF/50 MHz Transceiver, ARRL Handbook Boxed Set</a></div>
+<div style="background-color:#F8F8FF;">Mar 06: <a href=http://www.arrl.org/news/view/new-arrl-podcast-geared-toward-newcomers-to-amateur-radio-debuts-on-march-7>New ARRL Podcast Geared Toward Newcomers to Amateur Radio Debuts on March 7</a></div>
+<div style="background-color:#DDDDFF;">Mar 06: <a href=http://www.arrl.org/news/view/w6ro-aboard-the-queen-mary-to-celebrate-40th-anniversary-in-april>W6RO aboard the Queen Mary to Celebrate 40th Anniversary in April</a></div>
+<div style="background-color:#F8F8FF;">Mar 05: <a href=http://www.arrl.org/news/view/demand-high-as-new-arrl-introduction-to-emergency-communications-courses-open>Demand High as New ARRL Introduction to Emergency Communications Courses Open</a></div>
+</span>
+</td></tr>
+</table>
+</td><td width=130 valign=top>
+<a href="/call?redirecturl=http://hamcall.net/cq&redirectname=b-cq120x60"><img width=120 border=0 src=https://hamcall.net/images/a/b-cq120x60.gif alt="[Advertisement for CQ Magazine Archives]"></a><P>
+<a href="/call?redirecturl=http://hamcall.net/haminfo.html&redirectname=b-HamCall120x60"><img width=120 border=0 src=https://hamcall.net/images/a/b-HamCall120x60.gif alt="[Advertisement for HamCall DVD]"></a><P>
+<a href="/call?redirecturl=http://buckmasterinternational.com/vec&redirectname=b-w4vec"><img width=120 border=0 src=https://hamcall.net/images/a/b-w4vec.gif alt="[Advertisement for W4VEC]"></a><P>
+<a href="/call?redirecturl=http://hamcall.net/7bandocf.html&redirectname=b-antennas120x405"><img width=120 border=0 src=https://hamcall.net/images/a/b-antennas120x405.gif alt="[Advertisement for Buckmaster OCF Dipole Antennas]"></a><P>
+<BR>
+<HR noshade>
+<img border=0 align=left src=https://hamcall.net/hampics/V/WF1V.gif alt="[Photo of WF1V]">Random photo: <B><a href=https://hamcall.net/call/WF1V>WF1V</A></B>
+<BR clear=all>
+<a href="http://hamcall.net/hamcallFaq.html#photo"><font size=-1>Send us your photo</font></a><BR>
+<a href=http://hamcall.net/cgi-bin/browsephotos.exe><font size=-1>Browse QSLs</font></a><P>
+</td></tr></table>
+</table>
+<P>
+<div align="center">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 728x90 ad -->
+<ins class="adsbygoogle"
+     Style = "display:inline-block;width:728px;height:90px"
+     data-ad-client = "ca-pub-4400417820109764"
+     data-ad-slot="9612928072"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+Please <a href=http://hamcall.net/disclaimer.html>read the disclaimer</a>.<br>
+<P>HamCall World-Wide Callsign Server v5.0, Copyright &copy; 1995-2019 Buckmaster International<br>
+&quot;HamCall&quot; is a trademark of Buckmaster International. All rights reserved.<br>
+<font size=-1><A HREF=http://buckmasterinternational.com/legalinfo.html>Important Legal Information / Privacy Policy</A></font><p>
+For more information on amateur radio visit the ARRL web site:  <a href="http://www.arrl.org">http://www.arrl.org</a><br>
+<!--#include virtual="/cgi-bin/counter.exe" -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-5352761-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body></html>
